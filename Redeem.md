@@ -13,7 +13,7 @@ A Python-based tool for authorized website performance testing.
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
+git clone https://github.com/Ameerhamza793/DDOS-BY-AH.git
 cd YOUR-DDOS BY AH
 ls
 python ah_loadtest.py
